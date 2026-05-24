@@ -1,1 +1,2 @@
 # HomeworksAQAJS
+# added new info 
