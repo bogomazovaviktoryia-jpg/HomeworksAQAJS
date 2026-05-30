@@ -1,0 +1,25 @@
+{
+  "name": "homeworksaqajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node fsextra.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogomazovaviktoryia-jpg/HomeworksAQAJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bogomazovaviktoryia-jpg/HomeworksAQAJS/issues"
+  },
+  "homepage": "https://github.com/bogomazovaviktoryia-jpg/HomeworksAQAJS#readme",
+  "dependencies": {
+    "fs-extra": "^11.3.5"
+  }
+}
