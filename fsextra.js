@@ -15,6 +15,5 @@ async function main() {
     await fs.remove ('folder1');
     await fs.remove ('folder2');
     await fs.remove ('folder3');
-
 }
 main();
